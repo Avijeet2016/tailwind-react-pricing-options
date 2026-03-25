@@ -1,10 +1,11 @@
+import { CircleCheckBig } from 'lucide-react';
 import React from 'react';
 
 const Features = ({p}) => {
     console.log(p);
     return (
         <ul>
-            <li>{p}</li>
+            <li className='flex gap-1'><CircleCheckBig></CircleCheckBig> {p}</li>
         </ul>
     );
 };
