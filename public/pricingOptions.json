@@ -1,0 +1,52 @@
+{
+  "currency": "BDT",
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "price": 2000,
+      "duration": "monthly",
+      "admission_fee": 1000,
+      "features": [
+        "Access to gym equipment",
+        "Cardio and weight training machines",
+        "Off-peak hour access (6am-4pm)",
+        "Basic workout environment",
+        "No trainer support",
+        "No locker or shower facility"
+      ]
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "price": 3500,
+      "duration": "monthly",
+      "admission_fee": 1500,
+      "features": [
+        "Full-day gym access",
+        "Cardio and weight training machines",
+        "Basic trainer guidance",
+        "Access to group classes",
+        "Locker and shower facility",
+        "Air-conditioned workout area"
+      ]
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": 6500,
+      "duration": "monthly",
+      "admission_fee": 2000,
+      "features": [
+        "24/7 gym access",
+        "All equipment access",
+        "Dedicated personal trainer support",
+        "Customized diet plan",
+        "Unlimited group classes",
+        "Locker, shower, and steam bath",
+        "Air-conditioned premium environment",
+        "Priority support and assistance"
+      ]
+    }
+  ]
+}
